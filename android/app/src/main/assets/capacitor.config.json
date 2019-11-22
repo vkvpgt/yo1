@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.guru",
+  "appName": "guru",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}

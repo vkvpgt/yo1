@@ -1,0 +1,8 @@
+{
+  "name": "Ionic4UPI",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
